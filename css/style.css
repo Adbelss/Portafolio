@@ -90,3 +90,21 @@ footer {
         padding: 2.5rem;
     }
 }
+
+
+/* article */
+article {
+    background-color: #020617;
+    padding: 1.5rem;
+    border-radius: 8px;
+    margin-bottom: 1.5rem;
+}
+
+article h3 {
+    margin-bottom: 0.5rem;
+    color: #e5e7eb;
+}
+
+article p {
+    margin-bottom: 0.5rem;
+}
